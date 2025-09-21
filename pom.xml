@@ -4,9 +4,9 @@
   <artifactId>dat100-javainnlevering2</artifactId>
   <version>1.0-SNAPSHOT</version>
   
-      <properties>
-          <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-          <maven.compiler.release>23</maven.compiler.release>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>24</maven.compiler.release>
     </properties>
 
     <dependencies>
